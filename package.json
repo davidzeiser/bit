@@ -1,0 +1,20 @@
+{
+  "name": "bitcoin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "material-ui": "^0.19.4",
+    "react": "^16.0.0",
+    "react-d3-basic": "^1.6.11",
+    "react-d3-components": "^0.7.1",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "homepage" : "http://bitcoin.davidzeiser.com"
+}
